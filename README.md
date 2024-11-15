@@ -4,6 +4,10 @@ This repository contains most DotA Allstars maps released for Warcraft 3, for pr
 
 # Missing Maps
 
+The following table contains all maps currently missing in the archive, according to reliable sources.
+
+If you have any of the missing maps, send them through an issue file.
+
 | Version | Developer | Year |
 | -------- | -------- | -------- |
 | 4.0beta1 | Guinsoo | 2004 |
