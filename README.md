@@ -22,4 +22,3 @@ If you have any of the missing maps, send them through an issue file.
 | 5.40beta2 | Guinsoo | 2004 |
 | 5.40beta3 | Guinsoo | 2004 |
 | 5.40beta5 | Guinsoo | 2004 |
-| 6.16b | IceFrog | 2005 |
