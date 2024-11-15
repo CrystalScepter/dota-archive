@@ -18,7 +18,6 @@ If you have any of the missing maps, send them through an issue file.
 | 5.00beta | Guinsoo | 2004 |
 | 5.00 | Guinsoo | 2004 |
 | 5.30 | Guinsoo | 2004 |
-| 5.33 | Guinsoo | 2004 |
 | 5.40beta | Guinsoo | 2004 |
 | 5.40beta2 | Guinsoo | 2004 |
 | 5.40beta3 | Guinsoo | 2004 |
