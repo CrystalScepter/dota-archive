@@ -2,6 +2,8 @@
 
 This repository contains most DotA Allstars maps released for Warcraft 3, for preservation purposes.
 
+Most of these maps can be played with a v1.27 WC3, but versions between 6.00 and 6.19b require an older patch (v1.21b, for example)
+
 # Missing Maps
 
 The following table contains all maps currently missing in the archive, according to reliable sources.
