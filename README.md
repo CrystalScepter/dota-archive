@@ -1,14 +1,14 @@
-# DotA Allstars Archive
+# DotA Archive
 
-This repository contains most DotA Allstars maps released for Warcraft 3, for preservation purposes.
+This repository contains most DotA Classic and DotA Allstars maps released for Warcraft 3, for preservation purposes.
 
-Most of these maps can be played with a v1.27b The Frozen Throne, but versions between 6.00 and 6.19b require an older patch, such as v1.21b.
+Most of these maps can be played with a v1.27b ROC/TFT, but some of them require an older patch, such as v1.21b.
 
 # Missing Maps
 
 The following table contains all maps currently missing in the archive, according to reliable sources.
 
-If you have any of the missing maps, send them through an issue file.
+If you have any of the missing maps, please send them through an issue file.
 
 | Version | Developer | Year |
 | -------- | -------- | -------- |
