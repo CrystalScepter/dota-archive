@@ -10,6 +10,8 @@ The following table contains all maps currently missing in the archive, accordin
 
 If you have any of the missing maps, please send them through an issue file.
 
+| Version | Version | Version | Version | Version | Version |
+| -------- | -------- | -------- | -------- | -------- | -------- |
 | Allstars 4.0beta1 | Beta 2 | 2.1 | TFT 3.8 | 4.2 (Quantum.dx) | 3.81 |
 | Allstars 4.0beta4 | Final Beta 2 | 2.3 | Classic 1.0 (Kegsta) | 4.3 (Quantum.dx) | 3.82 |
 | Allstars 4.0beta7 | Final Beta 3 | 2.7 | Classic 1.1 (Kegsta) | 4.4b (Quantum.dx) | 3.82c |
