@@ -10,7 +10,7 @@ The following table contains all maps currently missing in the archive, accordin
 
 If you have any of the missing maps, please send them through an issue file.
 
-| Allstars | Eul | Kegsta | Quantum.dx | Ryude |
+| Guinsoo | Eul | Kegsta | Quantum.dx | Ryude |
 | -------- | -------- | -------- | -------- | -------- |
 | Allstars 4.0beta1 | Beta 2 | 3.1 | 3.92 | 4.2 | 3.82 |
 | Allstars 4.0beta4 | Final Beta 2 | 3.3 | 3.93 | 4.2b |
