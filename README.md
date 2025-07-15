@@ -12,7 +12,7 @@ If you have any of the missing maps, please send them through an issue file.
 
 | Guinsoo | Eul | Kegsta | Quantum.dx | Ryude | konn |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| Allstars 4.0beta1 | Beta 2 | 3.1 | 3.92 | 4.2 | 3.82 | EX 1.66 |
+| Allstars 4.0beta1 | Beta 2 | 3.1 | 3.92 | 4.2 | EX 1.66 |
 | Allstars 4.0beta4 | Final Beta 2 | 3.3 | 3.93 | 4.2b | EX 1.67 |
 | Allstars 4.0beta7 | Final Beta 3 | 3.3b | 3.94 | 3.71 | EX 1.73 |
 | Allstars 4.0beta8 | Final Beta 4 | 3.4 | 3.95 | 3.72b | EX 1.75 |
