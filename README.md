@@ -23,7 +23,7 @@ If you have any of the missing maps, please send them through an issue file.
 | Allstars 5.40beta | 1.5 | TFT 3.7 | 4.4b | 3.81 | EX 1.8 |
 | Allstars 5.40beta2 | 1.54 | TFT 3.8 |  | 3.82 | EX 1.82 |
 | Allstars 5.40beta3 | DX 1.4 | Classic 1.0 |  | 3.82c | EX 1.83 |
-| Allstars 5.40beta5 | 2.1  | Classic 1.1 |  | 3.82d |  |
+| Allstars 5.40beta5 | 2.1 | Classic 1.1 |  | 3.82d |  |
 |  | 2.3 | Classic 1.2 |  | Christmas Edition 7 |  |
 |  | 2.7 | Classic 1.3 |  |  |  |
 |  | Anniversary Edition | Classic 1.4 |  |  |  |
