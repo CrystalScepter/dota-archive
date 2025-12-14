@@ -2,7 +2,7 @@
 
 This repository contains most DotA Classic and DotA Allstars maps released for Warcraft 3, for preservation purposes.
 
-Most of these maps can be played with a v1.27b ROC/TFT, but some of them require an older patch, such as v1.21b or v1.04.
+Most of these maps can be played with a v1.27b ROC/TFT, but some of them require an older patch, such as v1.23 or v1.05.
 
 # Missing Maps
 
